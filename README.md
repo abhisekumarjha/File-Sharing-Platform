@@ -9,7 +9,7 @@ Email Sending: Conveniently send files via email directly from the platform.
 
 #Screenshots
 
-<img src="./main-page.PNG" alt="main-page" width="auto"/>
+<img src="./main-page.png" alt="main-page" width="auto"/>
 
 #Installation
 To run this project locally, follow these steps:
